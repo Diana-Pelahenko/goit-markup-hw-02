@@ -124,39 +124,46 @@ background-color: #2E2F42;
     text-align: center;
     color: #434455;
 }
-.our-portfolio{
+.our-portfolio {
     background-color: #ffffff;
+    /* Фон для секції */
 }
 
-.text-portfolio{
-    background-color: #ffffff;
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
-        text-transform: capitalize;
-    
-}
-.our-line{
-    background-color: #ffffff;
-}
-.our-app{
-font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
+/* Загальний стиль для всіх заголовків */
+.text-style {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
+/* Стиль для заголовка портфоліо */
+.text-portfolio {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
+    /* Використовуємо стиль для тексту */
+    background-color: #ffffff;
+}
 
+/* Лінія в портфоліо */
+.our-line {
+    background-color: #ffffff;
+}
 
+/* Стиль для опису елементів портфоліо */
+.our-app {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+
+/* Стиль для тексту елементів портфоліо */
 .text-app {
     font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
 }
   
