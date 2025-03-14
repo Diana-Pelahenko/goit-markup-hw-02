@@ -124,11 +124,7 @@ background-color: #2E2F42;
     text-align: center;
     color: #434455;
 }
-.our-portfolio{
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-}
+
 .our-portfolio {
     background-color: #FFFFFF;
     font-size: 36px;
@@ -137,6 +133,11 @@ background-color: #2E2F42;
     text-align: center;
     color: #2E2F42;
     text-transform: capitalize;
+}
+.text-portfolio{
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
 }
 .text-portfolio {
         background-color: #FFFFFF;
