@@ -130,14 +130,12 @@ background-color: #2E2F42;
 }
 
 .page-portfolio {
-    background-color: #ffffff;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
-    text-transform: capitalize;
+   font-size: 36px;
+   line-height: 1.11;
+   letter-spacing: 0.02em;
+   text-align: center;
+   text-transform: capitalize;
+   color: #2e2f42;
 }
 .our-line {
     background-color: #FFFFFF;
